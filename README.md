@@ -18,5 +18,5 @@ This study aims to perform a statistical analysis of two distinct robot
 control mechanisms: the first one devised during [RT1 Assignment 1](https://github.com/ParinazRmp/First-Assignment-Research-Track-1.git), and the
 second one, an alternative approach provided by the [Professor](https://github.com/CarmineD8/python_simulator/tree/rt2), serving as a
 comparative benchmark.
-Here is a link to the report: https://bit.ly/43tCpeQ
+Here is a link to the report and statistic files: https://bit.ly/43tCpeQ
 
