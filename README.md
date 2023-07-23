@@ -11,7 +11,10 @@ The assignment project repository can also be found here: https://github.com/Par
 ![image](https://github.com/ParinazRmp/RT2_Assignments/assets/94115975/c0a9f359-add3-46b0-9e95-70f7030eb27c)
 
 ## Assignment 1 part 2: Jupyter notebook
-Create a Jupyter notebook to interact with the simulation of the 3rdassignment 
+Assignment 2 aims to develop a user-friendly Graphical User Interface (GUI) using Jupyter Notebook's advanced features.
+
+In addition to buttons, text fields, and controls, this new interface incorporates interactive widgets to replace the previous User Interface (UI) provided by the UI node.
+Here is a link to [My Jupyter Notebook.](https://github.com/ParinazRmp/SLAM_with_Gmapping_and_Moving_Base/blob/Jupyter/Notebook/Robot_controller_jupyter.ipynb)
 
 ## Assignment 2: Statistical analysis on the first assignment
 This study aims to perform a statistical analysis of two distinct robot
