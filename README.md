@@ -5,7 +5,7 @@ In this assignment, we documented our third RT1 assignment in Doxygen format. We
 
 To access the documentation, click here: https://parinazrmp.github.io/SLAM_with_Gmapping_and_Moving_Base/
 
-The assignment project repository can also be found here: https://github.com/ParinazRmp/SLAM_with_Gmapping_and_Moving_Base.git
+The assignment project repository can also be found [here.](https://github.com/ParinazRmp/SLAM_with_Gmapping_and_Moving_Base.git)
 
 
 ![image](https://github.com/ParinazRmp/RT2_Assignments/assets/94115975/c0a9f359-add3-46b0-9e95-70f7030eb27c)
